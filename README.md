@@ -1,15 +1,15 @@
 <h1 align="center">Oi 👋, eu sou o Thiago!</h1>
-<h3 align="center">Um apaixonado por Data Science e Data Analysis</h3>
+<h3 align="center">Um apaixonado por IA, Data Science e Data Analysis</h3>
 
-- 🔭 Atualmente estou trabalhando com **meus projetos de portfólio de machine learning**
+- 🔭 Atualmente estou trabalhando como **Analista de Comercialização de Energia na (re)energisa**
 
-- 🌱 Atualmente estou aprendendo **Machine Learning aplicada à Negócios Digitais**
+- 🌱 Cursando **Pós-Graduação em IA & Negócios pela CCEC PUC-Rio**
 
-- 👨‍💻 Já trabalhei em/com: Durante 2 anos, fui estagiário de BI na área de Back Office da Neoenergia, automatizando ETLs com Python e criando dashboards estratégicos para a equipe com Tableau
+- 👨‍💻 Já trabalhei em/com: Atualmente atuo como Analista em uma comercializadora de energia, desenvolvendo automações de processos e pipelines de dados com Python (ETL), além de integrações com bases da CCEE. Tenho experiência com modelagem e análise de dados, e construção de dashboards em Tableau e Excel. Anteriormente, fui estagiário de BI na Neoenergia, com foco em estruturação de dados e geração de insights para o back office.
 
-- 💬 Me pergunte sobre **Python, R, Excel, Tableau, SQL, Power BI**
+- 💬 Me pergunte sobre **Inteligência Artifical, Dados, Machine Learning, BI, Python, R, Excel, Tableau, SQL, Power BI**
 
-- 📫 Você consegue conversar comigo através de **thiago_lessa@id.uff.br**
+- 📫 Você consegue conversar comigo através de **thi.lessa1@gmail.com**
 
 - 📄 Para saber mais sobre mim: [https://www.linkedin.com/in/thiago-lessa/](https://www.linkedin.com/in/thiago-lessa/)
 
