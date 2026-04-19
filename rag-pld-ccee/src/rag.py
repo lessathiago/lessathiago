@@ -5,7 +5,7 @@
 from langchain_chroma.vectorstores import Chroma
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
 import google.generativeai as genai
-from retriever import carregar_db, buscar_chunks, formatar_contexto
+from src.retriever import carregar_db, buscar_chunks, formatar_contexto
 from dotenv import load_dotenv
 import os
 
