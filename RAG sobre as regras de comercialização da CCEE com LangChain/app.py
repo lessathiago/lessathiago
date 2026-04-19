@@ -10,8 +10,8 @@ Execute com:
 import os
 import streamlit as st
 from dotenv import load_dotenv
-from retriever import carregar_db
-from rag import responder
+from src.retriever import carregar_db
+from src.rag import responder
  
 load_dotenv()
  
