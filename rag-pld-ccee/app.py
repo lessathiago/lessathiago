@@ -47,7 +47,7 @@ def get_db():
 import pathlib
 BASE_DIR = pathlib.Path(__file__).parent
 
-if not os.path.exists(BASE_DIR/"db").exists():
+if not os.path.exists(BASE_DIR/"db"):
     st.error(
         "⚠️ Banco vetorial não encontrado. "
         "Execute primeiro: `python criar_db.py`"
