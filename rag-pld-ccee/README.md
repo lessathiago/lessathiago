@@ -167,9 +167,8 @@ Isso garante que o usuário possa verificar a fonte e evita respostas inventadas
 ## 🚀 Deploy
 
 Interface hospedada gratuitamente no **Streamlit Community Cloud**:
-1. Conecte o repositório ao [share.streamlit.io](https://share.streamlit.io)
-2. Configure `GOOGLE_API_KEY` nos **Secrets** do Streamlit
-3. Deploy automático a cada push no GitHub
+
+https://lessathiago-rag-pld-ccee.streamlit.app/
 
 ---
 
