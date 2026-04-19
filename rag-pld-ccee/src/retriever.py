@@ -14,7 +14,9 @@ from langchain_community.vectorstores import Chroma
 
 load_dotenv()
 
-CAMINHO_DB = "db"
+import pathlib
+BASE_DIR = pathlib.Path(__file__).parent.parent  # sobe um nível do src/ para a raiz
+CAMINHO_DB = str(BASE_DIR / "db")
 
 TOP_K = 2     
 # Quantos chunks recuperar por pergunta. Quanto mais chunks, mais contexto, o que pode confundir o LLM
