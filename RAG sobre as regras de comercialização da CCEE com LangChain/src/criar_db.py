@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-pasta_base = "base"
+pasta_base = "../base"
 
 def criar_db():
     # Carregar Documentos
